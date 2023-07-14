@@ -7,7 +7,7 @@
 
 
 <p align='center'>
-   🧶 OA-Agent 初步形态，自动化任务执行，由 AutoGPT 强力驱动
+   🧶 OA-Agent 初步形态，自动化任务执行，由 AutoGPT 驱动
 <br>
 <br>
     🚀 Auto-Feishu 🚀
